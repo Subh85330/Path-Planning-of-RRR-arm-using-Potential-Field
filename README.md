@@ -12,4 +12,6 @@ Methodology of the project is given below:
   6. Find forces in the task space and subsequent joint toques. Sum the joint torques in the configuration space. 
   7. Use gradient descent to evolve the present state, and reach your target configuration 8. Animate the configuration for the given pat
   
-  <img src="images/result1_speed_change.gif" width="900" height="600">
+ # Results
+ 
+  <img src="images/result1_speed_change.gif" width="700" height="500">
