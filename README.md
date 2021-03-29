@@ -9,8 +9,9 @@ Methodology of the project is given below:
   4. Locate obstacle (here three points) in the workspace. 
     a. Create a repulsive potential field. 
   5. Make sure that self-collision of the links are also avoided 
-  6. Find forces in the task space and subsequent joint toques. Sum the joint torques in the configuration space. 
-  7. Use gradient descent to evolve the present state, and reach your target configuration 8. Animate the configuration for the given pat
+  6. Find forces in the task space and subsequent joint torques. Sum the joint torques in the configuration space. 
+  7. Use gradient descent to evolve the present state, and reach your target configuration.
+  8. Animate the configuration for the given path
   
  # Results
  
